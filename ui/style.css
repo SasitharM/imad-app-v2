@@ -2,6 +2,7 @@ body {
     font-family: Comic sans MS;
     background-image: url("/ui/bck.jpg");
     background-position: center; 
+     background-repeat: no-repeat;
    
     margin-top: 75px;
 }
