@@ -39,7 +39,7 @@ body {
 }
 .menu li {
  
-  padding: 10px; 
-  display: inline;
+   display:inline;
+    padding: 10px 40px;
 }
 
