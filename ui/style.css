@@ -35,10 +35,9 @@ body {
     
     .menu ul {
   list-style: none;
-  margin: 0;
-  padding: 0;
+ 
 }
 .menu li {
-  display: inline-block;
+  display: inline;
 }
 
