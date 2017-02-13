@@ -40,6 +40,6 @@ body {
 .menu li {
  
   padding: 10px; 
-  display: block;
+  display: inline;
 }
 
