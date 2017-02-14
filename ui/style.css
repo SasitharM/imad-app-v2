@@ -8,7 +8,11 @@ body {
     background-size: cover;
    
 }
-
+.balloon
+{
+    text-align: right;
+    font-size: 50%;
+}
 .center {
     text-align: left;
 }
