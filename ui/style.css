@@ -53,6 +53,6 @@ position: fixed;
    
 }
 
-  menu:hover {
+  .menu:hover {
     background-color: yellow;
 }
