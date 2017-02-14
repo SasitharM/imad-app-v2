@@ -38,7 +38,8 @@ body {
  
 }
 .menu li {
-    background-image:url("/ui/cloud.png"); ;
+    background-image:url("/ui/cloud.png"); 
+    background-position: center;
    display:inline;
     padding: 10px 40px;
 }
