@@ -1,9 +1,7 @@
 body {
     font-family: Comic sans MS;
     background-image: url("/ui/bck.jpg");
-    
-
-     height: 1000px;
+    height: 1000px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,17 +29,12 @@ body {
     height: 100px;
 }
     
-    
-    
-    .menu ul {
+.menu ul {
   list-style: none;
  
 }
 .menu li {
-   
-    position: relative; 
-   
-   display:inline;
+    display:inline;
     padding: 10px 40px;
      
 }
