@@ -8,10 +8,9 @@ body {
     background-size: cover;
    
 }
-.balloon
+.rocket
 {
-    text-align: right;
-    font-size: 150%;
+    height: 75px;
 }
 .center {
     text-align: left;
