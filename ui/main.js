@@ -6,7 +6,7 @@ console.log('Loaded!');
                     //element.innerHTML='Hai I am Salih';
                     
                     //Animating the image to move.
-var img = document.getElementById('salih');
+var img = document.getElementById('sasi');
 var marginleft=0;
 
 function moveright() {
