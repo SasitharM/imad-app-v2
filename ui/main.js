@@ -25,15 +25,6 @@ img.onclick=function() {
   var interval = setInterval(moveright,20);
 };
 
-
-
-
-
-
-
-
-
-
 //counter code
 var counter=0;
 var button = document.getElementById("counter");
