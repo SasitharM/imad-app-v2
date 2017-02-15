@@ -48,7 +48,9 @@ app.get('/ui/madi.png', function (req, res) {
 app.get('/ui/bck.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'bck.jpg'));
 });
-
+app.get('/ui/sasi.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'sasi.jpg'));
+});
 app.get('/ui/plane.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'plane.png'));
 });
